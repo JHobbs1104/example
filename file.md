@@ -1,4 +1,3 @@
-ECHO is on.
 # File
 
-Hello!
+Hello! This file should be in newbranch2.
